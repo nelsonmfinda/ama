@@ -1,4 +1,4 @@
-# holman/ama
+# nelsonmfinda/ama
 
 A repository to ask [@nelsonmfinda](https://twitter.com/nelsonmfinda) anything.
 
